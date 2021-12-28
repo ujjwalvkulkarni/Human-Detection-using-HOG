@@ -1,5 +1,7 @@
 # Human-Detection-using-HOG
 
+<br />
+
 Instructions to run the program:<br />
 1. Download OpenCV for python, which can be directly added on Anaconda Navigator or
 by executing the following command in the terminal: pip install opencv-python.<br />
