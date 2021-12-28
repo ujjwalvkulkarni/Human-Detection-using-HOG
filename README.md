@@ -1,12 +1,12 @@
 # Human-Detection-using-HOG
 
-Instructions to run the program:
+Instructions to run the program:<br />
 1. Download OpenCV for python, which can be directly added on Anaconda Navigator or
-by executing the following command in the terminal: pip install opencv-python.
+by executing the following command in the terminal: pip install opencv-python.<br />
 (Note: OpenCV package is just used to read and write images in the source code)
-2. The other packages that must be installed are Math, Numpy and Os, Glob.
+2. The other packages that must be installed are Math, Numpy and Os, Glob.<br />
 3. Open the source code files in a code editor which supports python. They are HOG.py,
-KNN.py, GradMag.py and ascii.py.
+KNN.py, GradMag.py and ascii.py.<br />
 
 
 To run the detection on test image:<br />
