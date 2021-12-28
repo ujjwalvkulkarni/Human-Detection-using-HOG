@@ -9,7 +9,7 @@ by executing the following command in the terminal: pip install opencv-python.
 KNN.py, GradMag.py and ascii.py.
 
 
-To run the detection on test image:
+To run the detection on test image:<br />
 4. Open HOG.py and compile (All the .py files must be inside the same folder).
 5. In the KNN.py file, paste the path for positive and negative training images on line 20
 and 21 respectively.
@@ -17,7 +17,7 @@ and 21 respectively.
 7. Run the Program to check the detection results in the output terminal.
 
 
-To check the gradient magnitude images.
+To check the gradient magnitude images:<br />
 8. Open GradMag.py and paste the image path for positive and negative test dataset on line
 14 and 15 respectively.
 9. Run the program.
@@ -25,7 +25,7 @@ To check the gradient magnitude images.
 images.
 
 
-To get the HOG Vectors in .txt files
+To get the HOG Vectors in .txt files:<br />
 11. Open the ascii.py file, paste the path for positive and negative training images on line 16
 and 17 respectively.
 12. Similarly, paste the test image location path on line 12 and 13.
